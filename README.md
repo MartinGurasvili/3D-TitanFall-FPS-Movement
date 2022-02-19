@@ -1,4 +1,4 @@
-# 3D-TitanFall-FPS-Movement
+# 3D TitanFall FPS Movement
 These are scripts to build a fully working FPS Titanfall Movement System in Unity
 
 --Feel free to edit and improve on these scripts--
